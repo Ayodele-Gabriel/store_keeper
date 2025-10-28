@@ -17,4 +17,6 @@ A modern, feature-rich Flutter inventory management application with local SQLit
 - Image Handling - Support for camera capture and gallery selection
 
 ### Links
-- Apk - 
+- Github Repo - https://github.com/Ayodele-Gabriel/store_keeper
+- Apk - https://drive.google.com/file/d/1XBTp8qBiQfQqWcjVOCplu3hqsWw8HJhJ/view?usp=share_link
+- Demo Video - 
