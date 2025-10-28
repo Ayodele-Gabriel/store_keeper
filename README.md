@@ -18,5 +18,5 @@ A modern, feature-rich Flutter inventory management application with local SQLit
 
 ### Links
 - Github Repo - https://github.com/Ayodele-Gabriel/store_keeper
-- Apk - https://drive.google.com/file/d/1XBTp8qBiQfQqWcjVOCplu3hqsWw8HJhJ/view?usp=share_link
-- Demo Video - 
+- Apk - https://drive.google.com/file/d/1Ggk0p3wjXJjvPW8lhaCTWp1J9A_-7g0n/view?usp=share_link
+- Demo Video - https://drive.google.com/file/d/1JfLLvnr62bInUr7bXTavlWYki5IZ4y64/view?usp=share_link
